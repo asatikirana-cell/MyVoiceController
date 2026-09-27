@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Voice Controller</string>
+    <string name="accessibility_description">Allows verified voice commands to interact with visible Android UI.</string>
+</resources>
